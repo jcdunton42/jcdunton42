@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcdunton42
 - 👀 I’m interested in playing the guitar and mathematics
-- 🌱 I’m currently learning python and SQL
+- 🌱 I’m currently learning as much as possible!
 - 💞️ I’m looking to collaborate on metacognitive learning
 - 📫 How to reach me jcdunton42@gmail.com
 
